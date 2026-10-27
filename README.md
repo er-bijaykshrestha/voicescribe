@@ -22,7 +22,7 @@ Link 🔗: (https://voicescribe-x7bafqvdngwwtwrvvksdwj.streamlit.app/)
 
 ## 🎥 Demo video
 
-[![Watch demo](https://img.shields.io/badge/▶_Watch_demo-Google_Drive-red)](https://drive.google.com/drive/u/0/my-drive)
+[![Watch demo](https://img.shields.io/badge/▶_Watch_demo-Google_Drive-red)](https://drive.google.com/file/d/1RfjfAeTl7TACpqMJHVcZHytrFqq-6q63/view?usp=sharing)
 
 *Click the **Watch Demo Button** to watch demo (Google Drive).*
 
