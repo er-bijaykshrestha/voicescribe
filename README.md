@@ -15,7 +15,7 @@ Built with Python and the [SpeechRecognition](https://pypi.org/project/SpeechRec
 - Accuracy evaluation with Word Error Rate (`evaluate.py`)
 - Unit tests with mocked recognition (no internet needed)
 
-  ## **🔗 Live demo:** 
+  ## **🔗 Project Live:** 
 
 Link 🔗: (https://voicescribe-x7bafqvdngwwtwrvvksdwj.streamlit.app/)
 
@@ -28,10 +28,6 @@ Link 🔗: (https://voicescribe-x7bafqvdngwwtwrvvksdwj.streamlit.app/)
 
 ## Dashboard
 ![Dashboard](dashboard.png)
-
-## Project Live: 
-# Link :  
-(https://voicescribe-x7bafqvdngwwtwrvvksdwj.streamlit.app/)
 
 ## Project structure
 ```
