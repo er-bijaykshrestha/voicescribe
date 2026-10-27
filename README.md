@@ -17,6 +17,7 @@ Built with Python and the [SpeechRecognition](https://pypi.org/project/SpeechRec
 
 ## Project Live: 
 # Link :  
+(https://voicescribe-x7bafqvdngwwtwrvvksdwj.streamlit.app/)
 
 ## Project structure
 ```
