@@ -1,0 +1,9 @@
+SpeechRecognition>=3.10
+pydub>=0.25
+streamlit>=1.40
+pytest>=8.0
+# Optional extras:
+# pyaudio            -> live microphone in the CLI (--mic)
+# openai-whisper     -> offline "whisper" engine
+# pocketsphinx       -> offline "sphinx" engine
+# jiwer              -> accuracy evaluation (evaluate.py)
