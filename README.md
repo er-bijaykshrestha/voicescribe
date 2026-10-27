@@ -15,6 +15,20 @@ Built with Python and the [SpeechRecognition](https://pypi.org/project/SpeechRec
 - Accuracy evaluation with Word Error Rate (`evaluate.py`)
 - Unit tests with mocked recognition (no internet needed)
 
+  ## **🔗 Live demo:** 
+
+Link 🔗: (https://voicescribe-x7bafqvdngwwtwrvvksdwj.streamlit.app/)
+
+
+## 🎥 Demo video
+
+[![Watch demo](https://img.shields.io/badge/▶_Watch_demo-Google_Drive-red)](https://drive.google.com/drive/u/0/my-drive)
+
+*Click the **Watch Demo Button** to watch demo (Google Drive).*
+
+## Dashboard
+![Dashboard](dashboard.png)
+
 ## Project Live: 
 # Link :  
 (https://voicescribe-x7bafqvdngwwtwrvvksdwj.streamlit.app/)
